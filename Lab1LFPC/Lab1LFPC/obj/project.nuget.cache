@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhP+HFU5gPNSg0U8GCVsjQSLgwZRfSSxXVSdR/8a/pA/g0H7XYJMFqW0JDzUUg4UB/8VU191JXN7qL9m4x//vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\colea\\Desktop\\Lab1LFPC\\Lab1LFPC\\Lab1LFPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\colea\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\colea\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\colea\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\bin\Debug\netcoreapp3.1\Lab1LFPC.exe
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\obj\Debug\netcoreapp3.1\Lab1LFPC.csprojAssemblyReference.cache
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\obj\Debug\netcoreapp3.1\Lab1LFPC.AssemblyInfoInputs.cache
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\obj\Debug\netcoreapp3.1\Lab1LFPC.AssemblyInfo.cs
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\bin\Debug\netcoreapp3.1\Lab1LFPC.deps.json
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\bin\Debug\netcoreapp3.1\Lab1LFPC.runtimeconfig.json
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\bin\Debug\netcoreapp3.1\Lab1LFPC.runtimeconfig.dev.json
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\bin\Debug\netcoreapp3.1\Lab1LFPC.dll
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\bin\Debug\netcoreapp3.1\Lab1LFPC.pdb
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\obj\Debug\netcoreapp3.1\Lab1LFPC.csproj.CoreCompileInputs.cache
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\obj\Debug\netcoreapp3.1\Lab1LFPC.dll
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\obj\Debug\netcoreapp3.1\Lab1LFPC.pdb
+C:\Users\colea\Desktop\Lab1LFPC\Lab1LFPC\obj\Debug\netcoreapp3.1\Lab1LFPC.genruntimeconfig.cache
