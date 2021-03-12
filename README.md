@@ -9,3 +9,5 @@
 The grammar that is used for this program is of type 3 right linear grammar  because its productions are of the form: 
 B ->aC  
 B ->b 
+<h2>Lab 2</h2>
+<img src="https://github.com/UrsuNicolae/LFPCLabs/tree/master/Lab2/lab2Point1.jpg"/>
