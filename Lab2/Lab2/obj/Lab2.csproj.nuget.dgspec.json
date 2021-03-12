@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colea\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj": {}
+    "C:\\Users\\nicolae.ursu\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colea\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj": {
+    "C:\\Users\\nicolae.ursu\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colea\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj",
+        "projectUniqueName": "C:\\Users\\nicolae.ursu\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj",
         "projectName": "Lab2",
-        "projectPath": "C:\\Users\\colea\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj",
-        "packagesPath": "C:\\Users\\colea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colea\\Documents\\LFPCLabs\\Lab2\\Lab2\\obj\\",
+        "projectPath": "C:\\Users\\nicolae.ursu\\Documents\\LFPCLabs\\Lab2\\Lab2\\Lab2.csproj",
+        "packagesPath": "C:\\Users\\nicolae.ursu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicolae.ursu\\Documents\\LFPCLabs\\Lab2\\Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\colea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nicolae.ursu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

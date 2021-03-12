@@ -11,3 +11,16 @@ C:\Users\colea\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.
 C:\Users\colea\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
 C:\Users\colea\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
 C:\Users\colea\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\nicolae.ursu\Documents\LFPCLabs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
