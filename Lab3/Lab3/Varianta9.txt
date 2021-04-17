@@ -1,0 +1,11 @@
+﻿S-bA
+S-BC
+A-a
+A-aS
+A-bAaAb
+B-A
+B-bS
+B-aAa
+C-empty
+C-AB
+D-AB
